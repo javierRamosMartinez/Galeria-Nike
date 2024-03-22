@@ -1,0 +1,17 @@
+.galeria{
+    display:flex;
+    flex-wrap:wrap;
+}
+.tarjeta{
+    width: 30%;
+    margin:1%;  
+}
+.img{
+    width: 100%;
+}
+.productSpecial{
+    color:#9E3500;
+}
+.textos{
+    display: block;
+}
